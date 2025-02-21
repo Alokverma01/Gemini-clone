@@ -5,8 +5,7 @@ A responsive AI-powered chatbot application built using **React.js** and **Tailw
 ## Features
 ✅ **Modern UI** – Designed with Tailwind CSS for a clean and responsive interface.  
 ✅ **Chat Functionality** – Simulates AI-driven conversations.  
-✅ **Smooth Animations** – Enhances user experience with transitions.  
-✅ **Dark/Light Mode** – Optional theme switch for better accessibility.  
+✅ **Smooth Animations** – Enhances user experience with transitions.   
 
 ## Tech Stack
 - **Frontend:** React.js, Tailwind CSS  
